@@ -1,0 +1,12 @@
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Favgameorrmovie.exe.config
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Favgameorrmovie.exe
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Favgameorrmovie.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\IronPython.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\IronPython.Modules.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Microsoft.Scripting.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\obj\Debug\Favgameorrmovie.pyprojResolveAssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\obj\Debug\Favgameorrmovie.MainForm.resources
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\obj\Debug\Favgameorrmovie.pyproj.GenerateResource.Cache
+C:\Users\bahr.e\Desktop\Programming II\Favgameorrmovie\Favgameorrmovie\obj\Debug\Favgameorrmovie.exe
