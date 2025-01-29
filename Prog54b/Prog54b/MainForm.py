@@ -173,20 +173,20 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		A = self._TextBox1.Text
-		B = self._TextBox2.Text
-		C = self._TextBox3.Text
-		D = self._TextBox1.Text
-		Sum = A + B + C + D
-		Avg = Sum / 4
-		self._Label5.Text = "Sum = " + Sum + "Average = " + Avg 
+		A = self._textBox1.Text
+		B = self._textBox2.Text
+		C = self._textBox3.Text
+		D = self._textBox4.Text
+		Sum = int(A) + int(B) + int(C) + int(D)
+		Avg = int(Sum) / 4
+		self._label5.Text = "Sum = " + str(Sum) + "\n\n" + "Average = " + str(Avg)
 
 	def Button2Click(self, sender, e):
-		self._TextBox1.Text = ""
-		self._TextBox2.Text = ""
-		self._TextBox3.Text = ""
-		self._TextBox4.Text = ""
-		self._label1.Text   = ""
+		self._textBox1.Text = ""
+		self._textBox2.Text = ""
+		self._textBox3.Text = ""
+		self._textBox4.Text = ""
+		self._label5.Text   = ""
 
 	def Button3Click(self, sender, e):
 		Application.Exit()
