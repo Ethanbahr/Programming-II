@@ -146,7 +146,11 @@ class MainForm(Form):
 
 	def Button1Click(self, sender, e):
 		Radius = self._textBox1.Text
-#		Circ = 2 * 3.14159
+		Area   = 3.14159 * (int(Radius)**2)
+		Circ   = 2 * 3.14159 * int(Radius)
+		self._label4.Text   = str(Area)
+		self._label5.Text   = str(Circ)
+		
 
 	def Button2Click(self, sender, e):
 		self._textBox1.Text = ""
