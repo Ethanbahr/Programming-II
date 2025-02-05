@@ -1,4 +1,5 @@
-﻿import System.Drawing
+﻿import math
+import System.Drawing
 import System.Windows.Forms
 
 from System.Drawing import *
@@ -80,12 +81,17 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		self._listBox.Items.Clear()
-		sqrd = 
-		sqrt =
+		self._listBox1.Items.Clear()
+		header = "Num:" + "\t" + "Num Squared:" + "\t" + "Square Root"
+		self._listBox1.Items.Add(header)
+		for num in range(1, 51):
+			sqrd = num**2
+			sqrt = round(math.sqrt(num), 4)
+			line = str(num) + "\t" + str(sqrd) + "\t\t" + str(sqrt)
+			self._listBox1.Items.Add(line)
 
 	def Button2Click(self, sender, e):
-		self._listBox.Items.Clear()
+		self._listBox1.Items.Clear()
 
 	def Button3Click(self, sender, e):
 		Application.Exit()
