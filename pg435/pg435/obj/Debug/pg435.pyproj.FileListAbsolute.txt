@@ -10,3 +10,4 @@ C:\Users\bahr.e\Desktop\Programming II\pg435\pg435\obj\Debug\pg435.pyprojResolve
 C:\Users\bahr.e\Desktop\Programming II\pg435\pg435\obj\Debug\pg435.MainForm.resources
 C:\Users\bahr.e\Desktop\Programming II\pg435\pg435\obj\Debug\pg435.pyproj.GenerateResource.Cache
 C:\Users\bahr.e\Desktop\Programming II\pg435\pg435\obj\Debug\pg435.exe
+C:\Users\bahr.e\Desktop\Programming II\pg435\pg435\obj\Debug\pg435.GeneralSales.resources
