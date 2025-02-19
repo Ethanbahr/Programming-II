@@ -89,7 +89,9 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		pass
+		from GeneralSales import *
+		GeneralSales.Show()
+		self.Hide()
 
 	def Button2Click(self, sender, e):
 		pass
