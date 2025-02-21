@@ -13,12 +13,8 @@ class GeneralSales(Form):
 	
 	def InitializeComponent(self):
 		self._label1 = System.Windows.Forms.Label()
-		self._groupBox1 = System.Windows.Forms.GroupBox()
 		self._groupBox2 = System.Windows.Forms.GroupBox()
 		self._textBox1 = System.Windows.Forms.TextBox()
-		self._radioButton1 = System.Windows.Forms.RadioButton()
-		self._radioButton2 = System.Windows.Forms.RadioButton()
-		self._radioButton3 = System.Windows.Forms.RadioButton()
 		self._button1 = System.Windows.Forms.Button()
 		self._button2 = System.Windows.Forms.Button()
 		self._label2 = System.Windows.Forms.Label()
@@ -28,7 +24,7 @@ class GeneralSales(Form):
 		self._label6 = System.Windows.Forms.Label()
 		self._label7 = System.Windows.Forms.Label()
 		self._label8 = System.Windows.Forms.Label()
-		self._groupBox1.SuspendLayout()
+		self._label9 = System.Windows.Forms.Label()
 		self._groupBox2.SuspendLayout()
 		self.SuspendLayout()
 		# 
@@ -43,21 +39,6 @@ class GeneralSales(Form):
 		self._label1.TabIndex = 0
 		self._label1.Text = "Num of tickets:"
 		self._label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-		# 
-		# groupBox1
-		# 
-		self._groupBox1.BackColor = System.Drawing.Color.SeaShell
-		self._groupBox1.Controls.Add(self._radioButton3)
-		self._groupBox1.Controls.Add(self._radioButton2)
-		self._groupBox1.Controls.Add(self._radioButton1)
-		self._groupBox1.Font = System.Drawing.Font("Palatino Linotype", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._groupBox1.ForeColor = System.Drawing.SystemColors.Desktop
-		self._groupBox1.Location = System.Drawing.Point(12, 86)
-		self._groupBox1.Name = "groupBox1"
-		self._groupBox1.Size = System.Drawing.Size(162, 149)
-		self._groupBox1.TabIndex = 2
-		self._groupBox1.TabStop = False
-		self._groupBox1.Text = "Section:"
 		# 
 		# groupBox2
 		# 
@@ -86,42 +67,6 @@ class GeneralSales(Form):
 		self._textBox1.Name = "textBox1"
 		self._textBox1.Size = System.Drawing.Size(158, 36)
 		self._textBox1.TabIndex = 4
-		# 
-		# radioButton1
-		# 
-		self._radioButton1.BackColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton1.Font = System.Drawing.Font("Palatino Linotype", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._radioButton1.Location = System.Drawing.Point(6, 29)
-		self._radioButton1.Name = "radioButton1"
-		self._radioButton1.Size = System.Drawing.Size(150, 36)
-		self._radioButton1.TabIndex = 0
-		self._radioButton1.TabStop = True
-		self._radioButton1.Text = "Section A"
-		self._radioButton1.UseVisualStyleBackColor = False
-		# 
-		# radioButton2
-		# 
-		self._radioButton2.BackColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton2.Font = System.Drawing.Font("Palatino Linotype", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._radioButton2.Location = System.Drawing.Point(6, 65)
-		self._radioButton2.Name = "radioButton2"
-		self._radioButton2.Size = System.Drawing.Size(150, 36)
-		self._radioButton2.TabIndex = 1
-		self._radioButton2.TabStop = True
-		self._radioButton2.Text = "Section B"
-		self._radioButton2.UseVisualStyleBackColor = False
-		# 
-		# radioButton3
-		# 
-		self._radioButton3.BackColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton3.Font = System.Drawing.Font("Palatino Linotype", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._radioButton3.Location = System.Drawing.Point(6, 107)
-		self._radioButton3.Name = "radioButton3"
-		self._radioButton3.Size = System.Drawing.Size(150, 36)
-		self._radioButton3.TabIndex = 2
-		self._radioButton3.TabStop = True
-		self._radioButton3.Text = "Section C"
-		self._radioButton3.UseVisualStyleBackColor = False
 		# 
 		# button1
 		# 
@@ -213,19 +158,30 @@ class GeneralSales(Form):
 		self._label8.TabIndex = 6
 		self._label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
+		# label9
+		# 
+		self._label9.BackColor = System.Drawing.Color.SeaShell
+		self._label9.Font = System.Drawing.Font("Palatino Linotype", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label9.ForeColor = System.Drawing.SystemColors.Desktop
+		self._label9.Location = System.Drawing.Point(12, 86)
+		self._label9.Name = "label9"
+		self._label9.Size = System.Drawing.Size(162, 98)
+		self._label9.TabIndex = 7
+		self._label9.Text = "Students can only sit in the student section"
+		self._label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+		# 
 		# GeneralSales
 		# 
 		self.BackColor = System.Drawing.Color.Salmon
 		self.ClientSize = System.Drawing.Size(360, 304)
+		self.Controls.Add(self._label9)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
 		self.Controls.Add(self._textBox1)
 		self.Controls.Add(self._groupBox2)
-		self.Controls.Add(self._groupBox1)
 		self.Controls.Add(self._label1)
 		self.Name = "GeneralSales"
 		self.Text = "GeneralSales"
-		self._groupBox1.ResumeLayout(False)
 		self._groupBox2.ResumeLayout(False)
 		self.ResumeLayout(False)
 		self.PerformLayout()

@@ -90,11 +90,15 @@ class MainForm(Form):
 
 	def Button1Click(self, sender, e):
 		from GeneralSales import *
-		GeneralSales.Show()
+		GS = GeneralSales()
+		GS.Show()
 		self.Hide()
 
 	def Button2Click(self, sender, e):
-		pass
+		from StudentSales import *
+		SS = StudentSales()
+		SS.Show()
+		self.Hide()
 
 	def Button3Click(self, sender, e):
 		Application.Exit()

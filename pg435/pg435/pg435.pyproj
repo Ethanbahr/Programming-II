@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="GeneralSales.py" />
     <Compile Include="MainForm.py" />
+    <Compile Include="New Folder\StudentSales.py" />
     <Compile Include="Program.py" />
   </ItemGroup>
   <ItemGroup>
@@ -73,6 +74,12 @@
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.py</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="New Folder\StudentSales.resx">
+      <DependentUpon>StudentSales.py</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="New Folder" />
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
 </Project>
