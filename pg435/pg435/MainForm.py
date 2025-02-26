@@ -20,22 +20,22 @@ class MainForm(Form):
 		# 
 		self._label1.BackColor = System.Drawing.Color.Snow
 		self._label1.Font = System.Drawing.Font("Rockwell", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._label1.Location = System.Drawing.Point(29, 38)
+		self._label1.Location = System.Drawing.Point(12, 38)
 		self._label1.Name = "label1"
-		self._label1.Size = System.Drawing.Size(120, 46)
+		self._label1.Size = System.Drawing.Size(151, 46)
 		self._label1.TabIndex = 0
-		self._label1.Text = "General Sales"
+		self._label1.Text = "General Sales:"
 		self._label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
 		# label2
 		# 
 		self._label2.BackColor = System.Drawing.Color.Snow
 		self._label2.Font = System.Drawing.Font("Rockwell", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._label2.Location = System.Drawing.Point(29, 99)
+		self._label2.Location = System.Drawing.Point(12, 99)
 		self._label2.Name = "label2"
-		self._label2.Size = System.Drawing.Size(120, 46)
+		self._label2.Size = System.Drawing.Size(151, 46)
 		self._label2.TabIndex = 1
-		self._label2.Text = "Student Sales"
+		self._label2.Text = "Student Sales:"
 		self._label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
 		# button1

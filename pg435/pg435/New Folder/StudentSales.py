@@ -9,7 +9,8 @@ from MainForm import *
 class GeneralSales(Form):
 	def __init__(self):
 		self.InitializeComponent()
-		self.pet = 0.0
+		self.myparent = parent
+#		self.pet = 0.0
 	
 	def InitializeComponent(self):
 		self._label1 = System.Windows.Forms.Label()
@@ -192,15 +193,28 @@ class GeneralSales(Form):
 		a   = self._radioButton1.Checked()
 		b   = self._radioButton2.Checked()
 		c   = self._radioButton3.Checked()
-		cst = 0.0
-		tix = self._textBox1.Text
-		tax = 0.0
-		tot = cost + tax
+		cost = 0.0
+		tixs = self._textBox1.Text
+		cst2 = cost * tixs
+		taxr = 0.06
+		totl = cost * tax
 		if a == Checked():
-			cst      = 3
-			self.pet = 0
-		self._label5.text = res
+			cost = 20
+			self._lblcst.text = "$" + int(cst2)
+		if b == Checked():
+			cost = 15
+			self._lblcst.text = "$" + int(cst2)
+		if c == Checked():
+			cost = 10
+			self._lblcst.text = "$" + int(cst2)
+		else:
+			cst = 0
+			self._lblcst.text = "Error"
+			
+		self._labeltix.text = tix
+		self._labelcst.text = cst
+		# WORK IN PROGRESS!!!!
 
 	def Button2Click(self, sender, e):
-		MainForm.Show()
-		self.Exit()
+		self.myparent.Show()
+		self.Hide()

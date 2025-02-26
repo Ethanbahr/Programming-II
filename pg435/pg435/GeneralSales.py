@@ -9,7 +9,8 @@ from MainForm import *
 class GeneralSales(Form):
 	def __init__(self):
 		self.InitializeComponent()
-		self.pet = 0.0
+		self.myparent = parent
+#		self.pet = 0.0
 	
 	def InitializeComponent(self):
 		self._label1 = System.Windows.Forms.Label()
@@ -24,10 +25,10 @@ class GeneralSales(Form):
 		self._label2 = System.Windows.Forms.Label()
 		self._label3 = System.Windows.Forms.Label()
 		self._label4 = System.Windows.Forms.Label()
-		self._label5 = System.Windows.Forms.Label()
-		self._label6 = System.Windows.Forms.Label()
-		self._label7 = System.Windows.Forms.Label()
-		self._label8 = System.Windows.Forms.Label()
+		self._labelcst = System.Windows.Forms.Label()
+		self._labeltix = System.Windows.Forms.Label()
+		self._labeltax = System.Windows.Forms.Label()
+		self._labeltot = System.Windows.Forms.Label()
 		self._groupBox1.SuspendLayout()
 		self._groupBox2.SuspendLayout()
 		self.SuspendLayout()
@@ -62,10 +63,10 @@ class GeneralSales(Form):
 		# groupBox2
 		# 
 		self._groupBox2.BackColor = System.Drawing.Color.SeaShell
-		self._groupBox2.Controls.Add(self._label8)
-		self._groupBox2.Controls.Add(self._label7)
-		self._groupBox2.Controls.Add(self._label6)
-		self._groupBox2.Controls.Add(self._label5)
+		self._groupBox2.Controls.Add(self._labeltot)
+		self._groupBox2.Controls.Add(self._labeltax)
+		self._groupBox2.Controls.Add(self._labeltix)
+		self._groupBox2.Controls.Add(self._labelcst)
 		self._groupBox2.Controls.Add(self._label4)
 		self._groupBox2.Controls.Add(self._label3)
 		self._groupBox2.Controls.Add(self._label2)
@@ -177,41 +178,41 @@ class GeneralSales(Form):
 		self._label4.Text = "Total:"
 		self._label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
-		# label5
+		# labelcst
 		# 
-		self._label5.BackColor = System.Drawing.Color.WhiteSmoke
-		self._label5.Location = System.Drawing.Point(99, 0)
-		self._label5.Name = "label5"
-		self._label5.Size = System.Drawing.Size(63, 33)
-		self._label5.TabIndex = 3
-		self._label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+		self._labelcst.BackColor = System.Drawing.Color.WhiteSmoke
+		self._labelcst.Location = System.Drawing.Point(99, 0)
+		self._labelcst.Name = "labelcst"
+		self._labelcst.Size = System.Drawing.Size(63, 33)
+		self._labelcst.TabIndex = 3
+		self._labelcst.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
-		# label6
+		# labeltix
 		# 
-		self._label6.BackColor = System.Drawing.Color.WhiteSmoke
-		self._label6.Location = System.Drawing.Point(99, 33)
-		self._label6.Name = "label6"
-		self._label6.Size = System.Drawing.Size(63, 33)
-		self._label6.TabIndex = 4
-		self._label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+		self._labeltix.BackColor = System.Drawing.Color.WhiteSmoke
+		self._labeltix.Location = System.Drawing.Point(99, 33)
+		self._labeltix.Name = "labeltix"
+		self._labeltix.Size = System.Drawing.Size(63, 33)
+		self._labeltix.TabIndex = 4
+		self._labeltix.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
-		# label7
+		# labeltax
 		# 
-		self._label7.BackColor = System.Drawing.Color.WhiteSmoke
-		self._label7.Location = System.Drawing.Point(95, 65)
-		self._label7.Name = "label7"
-		self._label7.Size = System.Drawing.Size(63, 33)
-		self._label7.TabIndex = 5
-		self._label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+		self._labeltax.BackColor = System.Drawing.Color.WhiteSmoke
+		self._labeltax.Location = System.Drawing.Point(95, 65)
+		self._labeltax.Name = "labeltax"
+		self._labeltax.Size = System.Drawing.Size(63, 33)
+		self._labeltax.TabIndex = 5
+		self._labeltax.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
-		# label8
+		# labeltot
 		# 
-		self._label8.BackColor = System.Drawing.Color.WhiteSmoke
-		self._label8.Location = System.Drawing.Point(93, 101)
-		self._label8.Name = "label8"
-		self._label8.Size = System.Drawing.Size(63, 33)
-		self._label8.TabIndex = 6
-		self._label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+		self._labeltot.BackColor = System.Drawing.Color.WhiteSmoke
+		self._labeltot.Location = System.Drawing.Point(93, 101)
+		self._labeltot.Name = "labeltot"
+		self._labeltot.Size = System.Drawing.Size(63, 33)
+		self._labeltot.TabIndex = 6
+		self._labeltot.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 		# 
 		# GeneralSales
 		# 
@@ -236,15 +237,26 @@ class GeneralSales(Form):
 		a   = self._radioButton1.Checked()
 		b   = self._radioButton2.Checked()
 		c   = self._radioButton3.Checked()
-		cst = 0.0
-		tix = self._textBox1.Text
-		tax = 0.0
-		tot = cost + tax
+		cost = 0.0
+		tixs = self._textBox1.Text
+		cst2 = cost * tixs
+		taxr = 0.06
+		totl = cost * tax
 		if a == Checked():
-			cst      = 3
-			self.pet = 0
-		self._label5.text = res
+			cost = 20
+			self._lblcst.text = "$" + int(cst2)
+		if b == Checked():
+			cost = 15
+			self._lblcst.text = "$" + int(cst2)
+		if c == Checked():
+			cost = 10
+			self._lblcst.text = "$" + int(cst2)
+		else:
+			cst = 0
+			self._lblcst.text = "Error"
+		self._labeltix.text = tix
+		self._labelcst.text = cst
 
 	def Button2Click(self, sender, e):
-		MainForm.Show()
-		self.Exit()
+		self.Hide()
+		self.myparent.Show()
