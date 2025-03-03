@@ -1,0 +1,3 @@
+C:\Users\bahr.e\Desktop\Programming II\LP37\LP37\obj\Debug\LP37.pyprojResolveAssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\LP37\LP37\obj\Debug\LP37.MainForm.resources
+C:\Users\bahr.e\Desktop\Programming II\LP37\LP37\obj\Debug\LP37.pyproj.GenerateResource.Cache
