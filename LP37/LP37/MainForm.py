@@ -104,10 +104,10 @@ class MainForm(Form):
 		mod1 = dm1.det_mod()
 		div2, mod2 = dm2.get_divmod()
 		self._label1.Text =  str(num1) + "/" str(num2) + "=" + str(div1) + "\n"
-		self._label1.Text += str(num1) + "/" str(num2) + "=" + str(mod1) + "\n\n"
+		self._label1.Text += str(num1) + "%" str(num2) + "=" + str(mod1) + "\n\n"
 	
 		self._label1.Text =  str(num2) + "/" str(num1) + "=" + str(div2) + "\n"
-		self._label1.Text += str(num2) + "/" str(num1) + "=" + str(mod2) + "\n"
+		self._label1.Text += str(num2) + "/%" str(num1) + "=" + str(mod2)
 
 	def Button2Click(self, sender, e):
 		pass
