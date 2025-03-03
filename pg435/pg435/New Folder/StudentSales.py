@@ -9,7 +9,7 @@ from MainForm import *
 class GeneralSales(Form):
 	def __init__(self):
 		self.InitializeComponent()
-		self.myparent = parent
+		self.myparent = MainForm()
 #		self.pet = 0.0
 	
 	def InitializeComponent(self):
@@ -190,9 +190,9 @@ class GeneralSales(Form):
 
 
 	def Button1Click(self, sender, e):
-		a   = self._radioButton1.Checked()
-		b   = self._radioButton2.Checked()
-		c   = self._radioButton3.Checked()
+		a    = self._radioButton1.Checked()
+		b    = self._radioButton2.Checked()
+		c    = self._radioButton3.Checked()
 		cost = 0.0
 		tixs = self._textBox1.Text
 		cst2 = cost * tixs

@@ -9,7 +9,7 @@ from MainForm import *
 class GeneralSales(Form):
 	def __init__(self):
 		self.InitializeComponent()
-		self.myparent = parent
+		self.myparent = MainForm()
 #		self.pet = 0.0
 	
 	def InitializeComponent(self):
