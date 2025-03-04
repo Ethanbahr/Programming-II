@@ -6,7 +6,7 @@ from System.Drawing import *
 from System.Windows.Forms import *
 from MainForm import *
 
-class GeneralSales(Form):
+class StudentSales(Form):
 	def __init__(self):
 		self.InitializeComponent()
 		self.myparent = MainForm()
@@ -183,6 +183,7 @@ class GeneralSales(Form):
 		self.Controls.Add(self._label1)
 		self.Name = "GeneralSales"
 		self.Text = "GeneralSales"
+		self.FormClosing += self.GeneralSalesFormClosing
 		self._groupBox2.ResumeLayout(False)
 		self.ResumeLayout(False)
 		self.PerformLayout()
@@ -218,3 +219,6 @@ class GeneralSales(Form):
 	def Button2Click(self, sender, e):
 		self.myparent.Show()
 		self.Hide()
+
+	def GeneralSalesFormClosing(self, sender, e):
+		self.myparent.Show()
