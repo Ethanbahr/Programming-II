@@ -226,20 +226,17 @@ class GeneralSales(Form):
 	def Button1Click(self, sender, e):
 		tix  = self._textBox1.Text
 		if self._radioButton1.Checked:
-			cst2           = str(tix) * 15
-			self._labelcst = "$" + str(cst2)
-			self._labeltax = "$" + round((cst2 * 0.06), 2)
-			self._labeltot = "$" + round((cst2 * 0.06) + str(tix), 2)
+			self._labelcst = "$" + (tix * 15)
+			self._labeltax = "$" + (tix * 15) * 0.06
+			self._labeltot = "$" + ((tix * 15) * 0.06 + tix) """Fix variable type thingy"""
 		elif self._radioButton2.Checked:
-			cst2           = str(tix) * 20
-			self._labelcst = "$" + str(cst2)
-			self._labeltax = "$" + round((cst2 * 0.06), 2)
-			self._labeltot = "$" + round((cst2 * 0.06) + str(tix), 2)
+			self._labelcst = "$" + (tix * 20)
+			self._labeltax = "$" + (tix * 20) * 0.06
+			self._labeltot = "$" + ((tix * 20) * 0.06 + tix)
 		elif self._radioButton3.Checked:
-			cst2           = str(tix) * 25
-			self._labelcst = "$" + str(cst2)
-			self._labeltax = "$" + round((cst2 * 0.06), 2)
-			self._labeltot = "$" + round((cst2 * 0.06) + str(tix), 2)
+			self._labelcst = "$" + (tix * 25)
+			self._labeltax = "$" + (tix * 25) * 0.06
+			self._labeltot = "$" + ((tix * 25) * 0.06 + tix)
 
 	def Button2Click(self, sender, e):
 		self.Hide()

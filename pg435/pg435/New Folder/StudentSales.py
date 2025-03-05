@@ -191,30 +191,19 @@ class StudentSales(Form):
 
 
 	def Button1Click(self, sender, e):
-		a    = self._radioButton1.Checked()
-		b    = self._radioButton2.Checked()
-		c    = self._radioButton3.Checked()
-		cost = 0.0
-		tixs = self._textBox1.Text
-		cst2 = cost * tixs
-		taxr = 0.06
-		totl = cost * tax
-		if a == Checked():
-			cost = 20
-			self._lblcst.text = "$" + int(cst2)
-		if b == Checked():
-			cost = 15
-			self._lblcst.text = "$" + int(cst2)
-		if c == Checked():
-			cost = 10
-			self._lblcst.text = "$" + int(cst2)
-		else:
-			cst = 0
-			self._lblcst.text = "Error"
-			
-		self._labeltix.text = tix
-		self._labelcst.text = cst
-		# WORK IN PROGRESS!!!!
+		tix  = self._textBox1.Text
+		if self._radioButton1.Checked:
+			self._labelcst = "$" + (tix * 15)
+			self._labeltax = "$" + (tix * 15) * 0.06
+			self._labeltot = "$" + ((tix * 15) * 0.06 + tix) """Fix variable type thingy"""
+		elif self._radioButton2.Checked:
+			self._labelcst = "$" + (tix * 20)
+			self._labeltax = "$" + (tix * 20) * 0.06
+			self._labeltot = "$" + ((tix * 20) * 0.06 + tix)
+		elif self._radioButton3.Checked:
+			self._labelcst = "$" + (tix * 25)
+			self._labeltax = "$" + (tix * 25) * 0.06
+			self._labeltot = "$" + ((tix * 25) * 0.06 + tix)
 
 	def Button2Click(self, sender, e):
 		self.myparent.Show()
