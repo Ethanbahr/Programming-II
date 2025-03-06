@@ -193,17 +193,19 @@ class StudentSales(Form):
 	def Button1Click(self, sender, e):
 		tix  = self._textBox1.Text
 		if self._radioButton1.Checked:
-			self._labelcst = "$" + (tix * 15)
-			self._labeltax = "$" + (tix * 15) * 0.06
-			self._labeltot = "$" + ((tix * 15) * 0.06 + tix) """Fix variable type thingy"""
+			self._labelcst.Text = "$" + str((tix * 20))
+			self._labeltax.Text = "$" + str((tix * 20) + ((6 / (tix * 20)) * 100))
+			self._labeltot.Text = "$" + str(((tix * 20) + ((6 / (tix * 20)) * 100) + tix))
+			
 		elif self._radioButton2.Checked:
-			self._labelcst = "$" + (tix * 20)
-			self._labeltax = "$" + (tix * 20) * 0.06
-			self._labeltot = "$" + ((tix * 20) * 0.06 + tix)
+			self._labelcst.Text = "$" + str((tix * 15))
+			self._labeltax.Text = "$" + str((tix * 15) + ((6 / (tix * 15)) * 100))
+			self._labeltot.Text = "$" + str(((tix * 15) + ((6 /  (tix * 15)) * 100) + tix))
+			
 		elif self._radioButton3.Checked:
-			self._labelcst = "$" + (tix * 25)
-			self._labeltax = "$" + (tix * 25) * 0.06
-			self._labeltot = "$" + ((tix * 25) * 0.06 + tix)
+			self._labelcst.Text = "$" + str((tix * 10))
+			self._labeltax.Text = "$" + str((tix * 10) + ((6 / (tix * 10)) * 100))
+			self._labeltot.Text = "$" + str(((tix * 10) + ((6 /  (tix * 10)) * 100) + tix))
 
 	def Button2Click(self, sender, e):
 		self.myparent.Show()
