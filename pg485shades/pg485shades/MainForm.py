@@ -3,6 +3,7 @@ import System.Windows.Forms
 
 from System.Drawing import *
 from System.Windows.Forms import *
+from FormTotal import *
 
 class MainForm(Form):
 	def __init__(self):
@@ -24,7 +25,6 @@ class MainForm(Form):
 		self._rbcBlue = System.Windows.Forms.RadioButton()
 		self._rbcNat = System.Windows.Forms.RadioButton()
 		self._rbcGreen = System.Windows.Forms.RadioButton()
-		self._button1 = System.Windows.Forms.Button()
 		self._button2 = System.Windows.Forms.Button()
 		self._button3 = System.Windows.Forms.Button()
 		self._button4 = System.Windows.Forms.Button()
@@ -142,14 +142,13 @@ class MainForm(Form):
 		# gbColors
 		# 
 		self._gbColors.BackColor = System.Drawing.Color.SpringGreen
-		self._gbColors.Controls.Add(self._button1)
 		self._gbColors.Controls.Add(self._rbcGreen)
 		self._gbColors.Controls.Add(self._rbcRed)
 		self._gbColors.Controls.Add(self._rbcTeal)
 		self._gbColors.Controls.Add(self._rbcBlue)
 		self._gbColors.Controls.Add(self._rbcNat)
 		self._gbColors.Font = System.Drawing.Font("Tahoma", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._gbColors.Location = System.Drawing.Point(12, 183)
+		self._gbColors.Location = System.Drawing.Point(18, 196)
 		self._gbColors.Name = "gbColors"
 		self._gbColors.Size = System.Drawing.Size(201, 235)
 		self._gbColors.TabIndex = 4
@@ -211,15 +210,6 @@ class MainForm(Form):
 		self._rbcGreen.Text = "Green (+$0)"
 		self._rbcGreen.UseVisualStyleBackColor = False
 		# 
-		# button1
-		# 
-		self._button1.Location = System.Drawing.Point(90, 26)
-		self._button1.Name = "button1"
-		self._button1.Size = System.Drawing.Size(8, 8)
-		self._button1.TabIndex = 5
-		self._button1.Text = "button1"
-		self._button1.UseVisualStyleBackColor = True
-		# 
 		# button2
 		# 
 		self._button2.BackColor = System.Drawing.Color.MintCream
@@ -230,6 +220,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 5
 		self._button2.Text = "Calculate"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -241,6 +232,7 @@ class MainForm(Form):
 		self._button3.TabIndex = 6
 		self._button3.Text = "Clear"
 		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
 		# 
 		# button4
 		# 
@@ -252,6 +244,7 @@ class MainForm(Form):
 		self._button4.TabIndex = 7
 		self._button4.Text = "Exit"
 		self._button4.UseVisualStyleBackColor = False
+		self._button4.Click += self.Button4Click
 		# 
 		# MainForm
 		# 
@@ -269,3 +262,23 @@ class MainForm(Form):
 		self._gbSizes.ResumeLayout(False)
 		self._gbColors.ResumeLayout(False)
 		self.ResumeLayout(False)
+
+	def Button2Click(self, sender, e):
+		FT = FormTotal()
+
+	def Button3Click(self, sender, e):
+		self._rbsReg.Checked   = False
+		self._rbsRome.Checked  = False
+		self._rbsFold.Checked  = False
+		self._rbsi25.Checked   = False
+		self._rbsi27.Checked   = False
+		self._rbsi32.Checked   = False
+		self._rbsi40.Checked   = False
+		self._rbcNat.Checked   = False
+		self._rbcBlue.Checked  = False
+		self._rbcTeal.Checked  = False
+		self._rbcRed.Checked   = False
+		self._rbcGreen.Checked = False
+
+	def Button4Click(self, sender, e):
+		Application.Exit()
