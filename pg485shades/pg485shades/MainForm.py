@@ -265,6 +265,8 @@ class MainForm(Form):
 
 	def Button2Click(self, sender, e):
 		FT = FormTotal()
+		FT.Show()
+		self.Hide()
 
 	def Button3Click(self, sender, e):
 		self._rbsReg.Checked   = False

@@ -1,5 +1,4 @@
-﻿
-import System.Drawing
+﻿import System.Drawing
 import System.Windows.Forms
 
 from System.Drawing import *
@@ -176,13 +175,13 @@ class FormTotal(Form):
 
 	def Button1Click(self, sender, e):
 		tot  = 50
-		opt1 =
-		opt2 =
-		opt3 = 
+		opt1 = 0
+		opt2 = 0
+		opt3 = 0
 		self._label5.Text = str(opt1)
 		self._label6.Text = str(opt2)
 		self._label7.Text = str(opt3)
-		self._label8.Text = tot
+		self._label8.Text = str(tot)
 
 	def Button2Click(self, sender, e):
 		self._label5.Text = ""
@@ -191,5 +190,7 @@ class FormTotal(Form):
 		self._label8.Text = ""
 
 	def Button3Click(self, sender, e):
+		MyParent = MainForm
 		self.MyParent.Show()
-		Self.Hide()
+		self.Hide()
+		# !!!!!!!!!! Error: MainForm not defined !!!!!!!!!!
