@@ -28,6 +28,7 @@ class MainForm(Form):
 		self._button2 = System.Windows.Forms.Button()
 		self._button3 = System.Windows.Forms.Button()
 		self._button4 = System.Windows.Forms.Button()
+		self._labelTot = System.Windows.Forms.Label()
 		self._gbShades.SuspendLayout()
 		self._gbSizes.SuspendLayout()
 		self._gbColors.SuspendLayout()
@@ -214,7 +215,7 @@ class MainForm(Form):
 		# 
 		self._button2.BackColor = System.Drawing.Color.MintCream
 		self._button2.Font = System.Drawing.Font("Tahoma", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button2.Location = System.Drawing.Point(264, 242)
+		self._button2.Location = System.Drawing.Point(264, 273)
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(140, 49)
 		self._button2.TabIndex = 5
@@ -226,7 +227,7 @@ class MainForm(Form):
 		# 
 		self._button3.BackColor = System.Drawing.Color.MintCream
 		self._button3.Font = System.Drawing.Font("Tahoma", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button3.Location = System.Drawing.Point(264, 297)
+		self._button3.Location = System.Drawing.Point(264, 328)
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(140, 49)
 		self._button3.TabIndex = 6
@@ -238,7 +239,7 @@ class MainForm(Form):
 		# 
 		self._button4.BackColor = System.Drawing.Color.MintCream
 		self._button4.Font = System.Drawing.Font("Tahoma", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button4.Location = System.Drawing.Point(264, 352)
+		self._button4.Location = System.Drawing.Point(264, 383)
 		self._button4.Name = "button4"
 		self._button4.Size = System.Drawing.Size(140, 49)
 		self._button4.TabIndex = 7
@@ -246,10 +247,20 @@ class MainForm(Form):
 		self._button4.UseVisualStyleBackColor = False
 		self._button4.Click += self.Button4Click
 		# 
+		# labelTot
+		# 
+		self._labelTot.BackColor = System.Drawing.Color.MintCream
+		self._labelTot.Font = System.Drawing.Font("Tahoma", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._labelTot.Location = System.Drawing.Point(238, 225)
+		self._labelTot.Name = "labelTot"
+		self._labelTot.Size = System.Drawing.Size(201, 37)
+		self._labelTot.TabIndex = 8
+		# 
 		# MainForm
 		# 
 		self.BackColor = System.Drawing.Color.MediumSeaGreen
 		self.ClientSize = System.Drawing.Size(451, 443)
+		self.Controls.Add(self._labelTot)
 		self.Controls.Add(self._button4)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
@@ -264,23 +275,27 @@ class MainForm(Form):
 		self.ResumeLayout(False)
 
 	def Button2Click(self, sender, e):
-		FT = FormTotal()
-		FT.Show()
-		self.Hide()
+		sct  = 50
+		opt1 = 0
+		opt2 = 0
+		opt3 = 0
+		if self._rbsFold.Checked:
+			opt1 = 10
+		if self._rbsRome.Checked:
+			opt1 = 15
+		if self._rbsi27.Checked:
+			opt2 = 2
+		if self._rbsi32.Checked:
+			opt2 = 4
+		if self._rbsi40.Checked:
+			opt2 = 6
+		if self._rbcNat.Checked:
+			opt3 = 5
+		tot = sct + opt1 + opt2 + opt3
+		self._labelTot.Text = str(tot)
 
 	def Button3Click(self, sender, e):
-		self._rbsReg.Checked   = False
-		self._rbsRome.Checked  = False
-		self._rbsFold.Checked  = False
-		self._rbsi25.Checked   = False
-		self._rbsi27.Checked   = False
-		self._rbsi32.Checked   = False
-		self._rbsi40.Checked   = False
-		self._rbcNat.Checked   = False
-		self._rbcBlue.Checked  = False
-		self._rbcTeal.Checked  = False
-		self._rbcRed.Checked   = False
-		self._rbcGreen.Checked = False
+		self._labelTot.Text = ""
 
 	def Button4Click(self, sender, e):
 		Application.Exit()
