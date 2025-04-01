@@ -15,24 +15,24 @@ class MainForm(Form):
 		self._button2 = System.Windows.Forms.Button()
 		self._gbMisc = System.Windows.Forms.GroupBox()
 		self._gbWS = System.Windows.Forms.GroupBox()
-		self._lblsi61 = System.Windows.Forms.RadioButton()
-		self._lblsi58 = System.Windows.Forms.RadioButton()
-		self._lblsi55 = System.Windows.Forms.RadioButton()
-		self._lblsi51 = System.Windows.Forms.RadioButton()
+		self._rbsi61 = System.Windows.Forms.RadioButton()
+		self._rbsi58 = System.Windows.Forms.RadioButton()
+		self._rbsi55 = System.Windows.Forms.RadioButton()
+		self._rbsi51 = System.Windows.Forms.RadioButton()
 		self._gbStyles = System.Windows.Forms.GroupBox()
-		self._lblTSK = System.Windows.Forms.RadioButton()
-		self._lblTDOG = System.Windows.Forms.RadioButton()
-		self._lblTMT = System.Windows.Forms.RadioButton()
+		self._rbTSK = System.Windows.Forms.RadioButton()
+		self._rbTDOG = System.Windows.Forms.RadioButton()
+		self._rbTMT = System.Windows.Forms.RadioButton()
 		self._labelSubTot = System.Windows.Forms.Label()
 		self._gbTruck = System.Windows.Forms.GroupBox()
-		self._lblax85 = System.Windows.Forms.RadioButton()
-		self._lblax8 = System.Windows.Forms.RadioButton()
-		self._lblax775 = System.Windows.Forms.RadioButton()
-		self._lblGT = System.Windows.Forms.CheckBox()
-		self._lblBEAR = System.Windows.Forms.CheckBox()
-		self._lblRISER = System.Windows.Forms.CheckBox()
-		self._lblNUTS = System.Windows.Forms.CheckBox()
-		self._lblASMBL = System.Windows.Forms.CheckBox()
+		self._rbax85 = System.Windows.Forms.RadioButton()
+		self._rbax8 = System.Windows.Forms.RadioButton()
+		self._rbax775 = System.Windows.Forms.RadioButton()
+		self._cbGT = System.Windows.Forms.CheckBox()
+		self._cbBEAR = System.Windows.Forms.CheckBox()
+		self._cbRISER = System.Windows.Forms.CheckBox()
+		self._cbNUTS = System.Windows.Forms.CheckBox()
+		self._cbASMBL = System.Windows.Forms.CheckBox()
 		self._label1 = System.Windows.Forms.Label()
 		self._label2 = System.Windows.Forms.Label()
 		self._label3 = System.Windows.Forms.Label()
@@ -102,11 +102,11 @@ class MainForm(Form):
 		# gbMisc
 		# 
 		self._gbMisc.BackColor = System.Drawing.Color.Transparent
-		self._gbMisc.Controls.Add(self._lblASMBL)
-		self._gbMisc.Controls.Add(self._lblNUTS)
-		self._gbMisc.Controls.Add(self._lblRISER)
-		self._gbMisc.Controls.Add(self._lblBEAR)
-		self._gbMisc.Controls.Add(self._lblGT)
+		self._gbMisc.Controls.Add(self._cbASMBL)
+		self._gbMisc.Controls.Add(self._cbNUTS)
+		self._gbMisc.Controls.Add(self._cbRISER)
+		self._gbMisc.Controls.Add(self._cbBEAR)
+		self._gbMisc.Controls.Add(self._cbGT)
 		self._gbMisc.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._gbMisc.ForeColor = System.Drawing.Color.DarkBlue
 		self._gbMisc.Location = System.Drawing.Point(12, 183)
@@ -119,10 +119,10 @@ class MainForm(Form):
 		# gbWS
 		# 
 		self._gbWS.BackColor = System.Drawing.Color.Transparent
-		self._gbWS.Controls.Add(self._lblsi61)
-		self._gbWS.Controls.Add(self._lblsi58)
-		self._gbWS.Controls.Add(self._lblsi55)
-		self._gbWS.Controls.Add(self._lblsi51)
+		self._gbWS.Controls.Add(self._rbsi61)
+		self._gbWS.Controls.Add(self._rbsi58)
+		self._gbWS.Controls.Add(self._rbsi55)
+		self._gbWS.Controls.Add(self._rbsi51)
 		self._gbWS.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._gbWS.ForeColor = System.Drawing.Color.Navy
 		self._gbWS.Location = System.Drawing.Point(225, 5)
@@ -132,60 +132,60 @@ class MainForm(Form):
 		self._gbWS.TabStop = False
 		self._gbWS.Text = "Wheel sets"
 		# 
-		# lblsi61
+		# rbsi61
 		# 
-		self._lblsi61.BackColor = System.Drawing.Color.MintCream
-		self._lblsi61.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblsi61.Location = System.Drawing.Point(6, 154)
-		self._lblsi61.Name = "lblsi61"
-		self._lblsi61.Size = System.Drawing.Size(189, 36)
-		self._lblsi61.TabIndex = 3
-		self._lblsi61.TabStop = True
-		self._lblsi61.Text = "61 mm"
-		self._lblsi61.UseVisualStyleBackColor = False
+		self._rbsi61.BackColor = System.Drawing.Color.MintCream
+		self._rbsi61.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbsi61.Location = System.Drawing.Point(6, 154)
+		self._rbsi61.Name = "rbsi61"
+		self._rbsi61.Size = System.Drawing.Size(189, 36)
+		self._rbsi61.TabIndex = 3
+		self._rbsi61.TabStop = True
+		self._rbsi61.Text = "61 mm"
+		self._rbsi61.UseVisualStyleBackColor = False
 		# 
-		# lblsi58
+		# rbsi58
 		# 
-		self._lblsi58.BackColor = System.Drawing.Color.MintCream
-		self._lblsi58.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblsi58.Location = System.Drawing.Point(6, 114)
-		self._lblsi58.Name = "lblsi58"
-		self._lblsi58.Size = System.Drawing.Size(189, 36)
-		self._lblsi58.TabIndex = 2
-		self._lblsi58.TabStop = True
-		self._lblsi58.Text = "58 mm"
-		self._lblsi58.UseVisualStyleBackColor = False
+		self._rbsi58.BackColor = System.Drawing.Color.MintCream
+		self._rbsi58.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbsi58.Location = System.Drawing.Point(6, 114)
+		self._rbsi58.Name = "rbsi58"
+		self._rbsi58.Size = System.Drawing.Size(189, 36)
+		self._rbsi58.TabIndex = 2
+		self._rbsi58.TabStop = True
+		self._rbsi58.Text = "58 mm"
+		self._rbsi58.UseVisualStyleBackColor = False
 		# 
-		# lblsi55
+		# rbsi55
 		# 
-		self._lblsi55.BackColor = System.Drawing.Color.MintCream
-		self._lblsi55.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblsi55.Location = System.Drawing.Point(6, 73)
-		self._lblsi55.Name = "lblsi55"
-		self._lblsi55.Size = System.Drawing.Size(189, 34)
-		self._lblsi55.TabIndex = 1
-		self._lblsi55.TabStop = True
-		self._lblsi55.Text = "55 mm"
-		self._lblsi55.UseVisualStyleBackColor = False
+		self._rbsi55.BackColor = System.Drawing.Color.MintCream
+		self._rbsi55.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbsi55.Location = System.Drawing.Point(6, 73)
+		self._rbsi55.Name = "rbsi55"
+		self._rbsi55.Size = System.Drawing.Size(189, 34)
+		self._rbsi55.TabIndex = 1
+		self._rbsi55.TabStop = True
+		self._rbsi55.Text = "55 mm"
+		self._rbsi55.UseVisualStyleBackColor = False
 		# 
-		# lblsi51
+		# rbsi51
 		# 
-		self._lblsi51.BackColor = System.Drawing.Color.MintCream
-		self._lblsi51.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblsi51.Location = System.Drawing.Point(6, 29)
-		self._lblsi51.Name = "lblsi51"
-		self._lblsi51.Size = System.Drawing.Size(189, 38)
-		self._lblsi51.TabIndex = 0
-		self._lblsi51.TabStop = True
-		self._lblsi51.Text = "51 mm"
-		self._lblsi51.UseVisualStyleBackColor = False
+		self._rbsi51.BackColor = System.Drawing.Color.MintCream
+		self._rbsi51.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbsi51.Location = System.Drawing.Point(6, 29)
+		self._rbsi51.Name = "rbsi51"
+		self._rbsi51.Size = System.Drawing.Size(189, 38)
+		self._rbsi51.TabIndex = 0
+		self._rbsi51.TabStop = True
+		self._rbsi51.Text = "51 mm"
+		self._rbsi51.UseVisualStyleBackColor = False
 		# 
 		# gbStyles
 		# 
 		self._gbStyles.BackColor = System.Drawing.Color.Transparent
-		self._gbStyles.Controls.Add(self._lblTSK)
-		self._gbStyles.Controls.Add(self._lblTDOG)
-		self._gbStyles.Controls.Add(self._lblTMT)
+		self._gbStyles.Controls.Add(self._rbTSK)
+		self._gbStyles.Controls.Add(self._rbTDOG)
+		self._gbStyles.Controls.Add(self._rbTMT)
 		self._gbStyles.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._gbStyles.ForeColor = System.Drawing.Color.Navy
 		self._gbStyles.Location = System.Drawing.Point(12, 5)
@@ -195,41 +195,41 @@ class MainForm(Form):
 		self._gbStyles.TabStop = False
 		self._gbStyles.Text = "Styles"
 		# 
-		# lblTSK
+		# rbTSK
 		# 
-		self._lblTSK.BackColor = System.Drawing.Color.MintCream
-		self._lblTSK.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblTSK.Location = System.Drawing.Point(6, 114)
-		self._lblTSK.Name = "lblTSK"
-		self._lblTSK.Size = System.Drawing.Size(189, 36)
-		self._lblTSK.TabIndex = 2
-		self._lblTSK.TabStop = True
-		self._lblTSK.Text = "The Street King"
-		self._lblTSK.UseVisualStyleBackColor = False
+		self._rbTSK.BackColor = System.Drawing.Color.MintCream
+		self._rbTSK.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbTSK.Location = System.Drawing.Point(6, 114)
+		self._rbTSK.Name = "rbTSK"
+		self._rbTSK.Size = System.Drawing.Size(189, 36)
+		self._rbTSK.TabIndex = 2
+		self._rbTSK.TabStop = True
+		self._rbTSK.Text = "The Street King"
+		self._rbTSK.UseVisualStyleBackColor = False
 		# 
-		# lblTDOG
+		# rbTDOG
 		# 
-		self._lblTDOG.BackColor = System.Drawing.Color.MintCream
-		self._lblTDOG.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblTDOG.Location = System.Drawing.Point(6, 74)
-		self._lblTDOG.Name = "lblTDOG"
-		self._lblTDOG.Size = System.Drawing.Size(189, 34)
-		self._lblTDOG.TabIndex = 1
-		self._lblTDOG.TabStop = True
-		self._lblTDOG.Text = "The Dictator of Grind"
-		self._lblTDOG.UseVisualStyleBackColor = False
+		self._rbTDOG.BackColor = System.Drawing.Color.MintCream
+		self._rbTDOG.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbTDOG.Location = System.Drawing.Point(6, 74)
+		self._rbTDOG.Name = "rbTDOG"
+		self._rbTDOG.Size = System.Drawing.Size(189, 34)
+		self._rbTDOG.TabIndex = 1
+		self._rbTDOG.TabStop = True
+		self._rbTDOG.Text = "The Dictator of Grind"
+		self._rbTDOG.UseVisualStyleBackColor = False
 		# 
-		# lblTMT
+		# rbTMT
 		# 
-		self._lblTMT.BackColor = System.Drawing.Color.MintCream
-		self._lblTMT.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblTMT.Location = System.Drawing.Point(6, 29)
-		self._lblTMT.Name = "lblTMT"
-		self._lblTMT.Size = System.Drawing.Size(189, 38)
-		self._lblTMT.TabIndex = 0
-		self._lblTMT.TabStop = True
-		self._lblTMT.Text = "The Master Thrasher"
-		self._lblTMT.UseVisualStyleBackColor = False
+		self._rbTMT.BackColor = System.Drawing.Color.MintCream
+		self._rbTMT.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbTMT.Location = System.Drawing.Point(6, 29)
+		self._rbTMT.Name = "rbTMT"
+		self._rbTMT.Size = System.Drawing.Size(189, 38)
+		self._rbTMT.TabIndex = 0
+		self._rbTMT.TabStop = True
+		self._rbTMT.Text = "The Master Thrasher"
+		self._rbTMT.UseVisualStyleBackColor = False
 		# 
 		# labelSubTot
 		# 
@@ -244,9 +244,9 @@ class MainForm(Form):
 		# gbTruck
 		# 
 		self._gbTruck.BackColor = System.Drawing.Color.Transparent
-		self._gbTruck.Controls.Add(self._lblax85)
-		self._gbTruck.Controls.Add(self._lblax8)
-		self._gbTruck.Controls.Add(self._lblax775)
+		self._gbTruck.Controls.Add(self._rbax85)
+		self._gbTruck.Controls.Add(self._rbax8)
+		self._gbTruck.Controls.Add(self._rbax775)
 		self._gbTruck.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._gbTruck.ForeColor = System.Drawing.Color.Navy
 		self._gbTruck.Location = System.Drawing.Point(225, 219)
@@ -256,101 +256,101 @@ class MainForm(Form):
 		self._gbTruck.TabStop = False
 		self._gbTruck.Text = "Truck assemblies"
 		# 
-		# lblax85
+		# rbax85
 		# 
-		self._lblax85.BackColor = System.Drawing.Color.MintCream
-		self._lblax85.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblax85.Location = System.Drawing.Point(6, 114)
-		self._lblax85.Name = "lblax85"
-		self._lblax85.Size = System.Drawing.Size(189, 36)
-		self._lblax85.TabIndex = 2
-		self._lblax85.TabStop = True
-		self._lblax85.Text = "8.5 axle"
-		self._lblax85.UseVisualStyleBackColor = False
+		self._rbax85.BackColor = System.Drawing.Color.MintCream
+		self._rbax85.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbax85.Location = System.Drawing.Point(6, 114)
+		self._rbax85.Name = "rbax85"
+		self._rbax85.Size = System.Drawing.Size(189, 36)
+		self._rbax85.TabIndex = 2
+		self._rbax85.TabStop = True
+		self._rbax85.Text = "8.5 axle"
+		self._rbax85.UseVisualStyleBackColor = False
 		# 
-		# lblax8
+		# rbax8
 		# 
-		self._lblax8.BackColor = System.Drawing.Color.MintCream
-		self._lblax8.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblax8.Location = System.Drawing.Point(6, 74)
-		self._lblax8.Name = "lblax8"
-		self._lblax8.Size = System.Drawing.Size(189, 34)
-		self._lblax8.TabIndex = 1
-		self._lblax8.TabStop = True
-		self._lblax8.Text = "8 axle"
-		self._lblax8.UseVisualStyleBackColor = False
+		self._rbax8.BackColor = System.Drawing.Color.MintCream
+		self._rbax8.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbax8.Location = System.Drawing.Point(6, 74)
+		self._rbax8.Name = "rbax8"
+		self._rbax8.Size = System.Drawing.Size(189, 34)
+		self._rbax8.TabIndex = 1
+		self._rbax8.TabStop = True
+		self._rbax8.Text = "8 axle"
+		self._rbax8.UseVisualStyleBackColor = False
 		# 
-		# lblax775
+		# rbax775
 		# 
-		self._lblax775.BackColor = System.Drawing.Color.MintCream
-		self._lblax775.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblax775.Location = System.Drawing.Point(6, 29)
-		self._lblax775.Name = "lblax775"
-		self._lblax775.Size = System.Drawing.Size(189, 38)
-		self._lblax775.TabIndex = 0
-		self._lblax775.TabStop = True
-		self._lblax775.Text = "7.75 axle"
-		self._lblax775.UseVisualStyleBackColor = False
+		self._rbax775.BackColor = System.Drawing.Color.MintCream
+		self._rbax775.ForeColor = System.Drawing.Color.DodgerBlue
+		self._rbax775.Location = System.Drawing.Point(6, 29)
+		self._rbax775.Name = "rbax775"
+		self._rbax775.Size = System.Drawing.Size(189, 38)
+		self._rbax775.TabIndex = 0
+		self._rbax775.TabStop = True
+		self._rbax775.Text = "7.75 axle"
+		self._rbax775.UseVisualStyleBackColor = False
 		# 
-		# lblGT
+		# cbGT
 		# 
-		self._lblGT.BackColor = System.Drawing.Color.MintCream
-		self._lblGT.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-		self._lblGT.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblGT.Location = System.Drawing.Point(6, 23)
-		self._lblGT.Name = "lblGT"
-		self._lblGT.Size = System.Drawing.Size(188, 34)
-		self._lblGT.TabIndex = 5
-		self._lblGT.Text = "Grip tape"
-		self._lblGT.UseVisualStyleBackColor = False
+		self._cbGT.BackColor = System.Drawing.Color.MintCream
+		self._cbGT.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+		self._cbGT.ForeColor = System.Drawing.Color.DodgerBlue
+		self._cbGT.Location = System.Drawing.Point(6, 23)
+		self._cbGT.Name = "cbGT"
+		self._cbGT.Size = System.Drawing.Size(188, 34)
+		self._cbGT.TabIndex = 5
+		self._cbGT.Text = "Grip tape"
+		self._cbGT.UseVisualStyleBackColor = False
 		# 
-		# lblBEAR
+		# cbBEAR
 		# 
-		self._lblBEAR.BackColor = System.Drawing.Color.MintCream
-		self._lblBEAR.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-		self._lblBEAR.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblBEAR.Location = System.Drawing.Point(6, 63)
-		self._lblBEAR.Name = "lblBEAR"
-		self._lblBEAR.Size = System.Drawing.Size(188, 34)
-		self._lblBEAR.TabIndex = 6
-		self._lblBEAR.Text = "Bearings"
-		self._lblBEAR.UseVisualStyleBackColor = False
+		self._cbBEAR.BackColor = System.Drawing.Color.MintCream
+		self._cbBEAR.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+		self._cbBEAR.ForeColor = System.Drawing.Color.DodgerBlue
+		self._cbBEAR.Location = System.Drawing.Point(6, 63)
+		self._cbBEAR.Name = "cbBEAR"
+		self._cbBEAR.Size = System.Drawing.Size(188, 34)
+		self._cbBEAR.TabIndex = 6
+		self._cbBEAR.Text = "Bearings"
+		self._cbBEAR.UseVisualStyleBackColor = False
 		# 
-		# lblRISER
+		# cbRISER
 		# 
-		self._lblRISER.BackColor = System.Drawing.Color.MintCream
-		self._lblRISER.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-		self._lblRISER.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblRISER.Location = System.Drawing.Point(6, 100)
-		self._lblRISER.Name = "lblRISER"
-		self._lblRISER.Size = System.Drawing.Size(188, 34)
-		self._lblRISER.TabIndex = 7
-		self._lblRISER.Text = "Riser pads"
-		self._lblRISER.UseVisualStyleBackColor = False
+		self._cbRISER.BackColor = System.Drawing.Color.MintCream
+		self._cbRISER.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+		self._cbRISER.ForeColor = System.Drawing.Color.DodgerBlue
+		self._cbRISER.Location = System.Drawing.Point(6, 100)
+		self._cbRISER.Name = "cbRISER"
+		self._cbRISER.Size = System.Drawing.Size(188, 34)
+		self._cbRISER.TabIndex = 7
+		self._cbRISER.Text = "Riser pads"
+		self._cbRISER.UseVisualStyleBackColor = False
 		# 
-		# lblNUTS
+		# cbNUTS
 		# 
-		self._lblNUTS.BackColor = System.Drawing.Color.MintCream
-		self._lblNUTS.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-		self._lblNUTS.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblNUTS.Location = System.Drawing.Point(6, 140)
-		self._lblNUTS.Name = "lblNUTS"
-		self._lblNUTS.Size = System.Drawing.Size(188, 34)
-		self._lblNUTS.TabIndex = 8
-		self._lblNUTS.Text = "Nuts and bolts kit"
-		self._lblNUTS.UseVisualStyleBackColor = False
+		self._cbNUTS.BackColor = System.Drawing.Color.MintCream
+		self._cbNUTS.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+		self._cbNUTS.ForeColor = System.Drawing.Color.DodgerBlue
+		self._cbNUTS.Location = System.Drawing.Point(6, 140)
+		self._cbNUTS.Name = "cbNUTS"
+		self._cbNUTS.Size = System.Drawing.Size(188, 34)
+		self._cbNUTS.TabIndex = 8
+		self._cbNUTS.Text = "Nuts and bolts kit"
+		self._cbNUTS.UseVisualStyleBackColor = False
 		# 
-		# lblASMBL
+		# cbASMBL
 		# 
-		self._lblASMBL.BackColor = System.Drawing.Color.MintCream
-		self._lblASMBL.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-		self._lblASMBL.ForeColor = System.Drawing.Color.DodgerBlue
-		self._lblASMBL.Location = System.Drawing.Point(6, 180)
-		self._lblASMBL.Name = "lblASMBL"
-		self._lblASMBL.Size = System.Drawing.Size(188, 34)
-		self._lblASMBL.TabIndex = 9
-		self._lblASMBL.Text = "Assembly"
-		self._lblASMBL.UseVisualStyleBackColor = False
+		self._cbASMBL.BackColor = System.Drawing.Color.MintCream
+		self._cbASMBL.Font = System.Drawing.Font("Tempus Sans ITC", 9.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
+		self._cbASMBL.ForeColor = System.Drawing.Color.DodgerBlue
+		self._cbASMBL.Location = System.Drawing.Point(6, 180)
+		self._cbASMBL.Name = "cbASMBL"
+		self._cbASMBL.Size = System.Drawing.Size(188, 34)
+		self._cbASMBL.TabIndex = 9
+		self._cbASMBL.Text = "Assembly"
+		self._cbASMBL.UseVisualStyleBackColor = False
 		# 
 		# label1
 		# 
@@ -478,32 +478,41 @@ class MainForm(Form):
 		amt2 = 0
 		amt3 = 0
 		amt4 = 0
+		if self._rbTMT.Checked == True:
+			amt1 = 60
+		if self._rbTDOG.Checked == True:
+			amt1 = 45
+		if self._rbTSK.Checked == True:
+			amt1 = 50
+		if self._rbsi51.Checked == True:
+			amt2 = 20
+		if self._rbsi55.Checked == True:
+			amt2 = 22
+		if self._rbsi58.Checked == True:
+			amt2 = 24
+		if self._rbsi61.Checked == True:
+			amt2 = 28
+		if self._rbax775.Checked == True:
+			amt3 = 35
+		if self._rbax8.Checked == True:
+			amt3 = 40
+		if self._rbax85.Checked == True:
+			amt3 = 45
+		if self._cbGT.Checked == True:
+			amt4 += 10
+		elif self._cbBEAR.Checked == True:
+			amt4 += 30
+		elif self._cbRISER.Checked == True:
+			amt4 += 2
+		elif self._cbNUTS.Checked == True:
+			amt4 += 3
 		subtot = amt1 + amt2 + amt3 + amt4
 		tax = subtot * 0.06
 		tot = subtot + tax
-		if self._lblTMT.Checked == True:
-			amt1 = 60
-		if self._lblTDOG.Checked == True:
-			amt1 = 45
-		if self._lblTSK.Checked == True:
-			amt1 = 50
-		if self._lblsi51.Checked == True:
-			amt2 = 20
-		if self._lblsi55.Checked == True:
-			amt2 = 22
-		if self._lblsi58.Checked == True:
-			amt2 = 24
-		if self._lblsi61.Checked == True:
-			amt2 = 28
-		if self._lblax775.Checked == True:
-			amt3 = 35
-		if self._lblax8.Checked == True:
-			amt3 = 40
-		if self._lblax85.Checked == True:
-			amt3 = 45
-		""" ADD: amt4 stuff - the groupbox with checkboxes """
-		self._labelSubTot.Text = str(subtot)
-		self._labelTot.Text    = str(tot)
+		if self._cbASMBL.Checked == True:
+			tot = tot - 0.60
+		self._labelSubTot.Text = "Subtotal: $" + str(subtot)
+		self._labelTot.Text    = "Total: $" + str(tot)
 
 	def Button3Click(self, sender, e):
 		self._labelSubTot.Text = ""
