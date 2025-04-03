@@ -10,3 +10,4 @@ C:\Users\bahr.e\Desktop\Programming II\Pg479conference\Pg479conference\obj\Debug
 C:\Users\bahr.e\Desktop\Programming II\Pg479conference\Pg479conference\obj\Debug\Pg479conference.MainForm.resources
 C:\Users\bahr.e\Desktop\Programming II\Pg479conference\Pg479conference\obj\Debug\Pg479conference.pyproj.GenerateResource.Cache
 C:\Users\bahr.e\Desktop\Programming II\Pg479conference\Pg479conference\obj\Debug\Pg479conference.exe
+C:\Users\bahr.e\Desktop\Programming II\Pg479conference\Pg479conference\obj\Debug\Pg479conference.OtherForm.resources

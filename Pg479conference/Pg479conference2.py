@@ -63,6 +63,7 @@ class Form1(Form):
 		self.Controls.Add(self._button1)
 		self.Name = "Form1"
 		self.Text = "Form1"
+		self.Load += self.Form1Load
 		self.ResumeLayout(False)
 
 
@@ -75,3 +76,6 @@ class Form1(Form):
 	def Button3Click(self, sender, e):
 		MainForm.Show()
 		Self.Hide
+
+	def Form1Load(self, sender, e):
+		pass
