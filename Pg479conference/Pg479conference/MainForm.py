@@ -37,9 +37,9 @@ class MainForm(Form):
 		self._button1.BackColor = System.Drawing.Color.HotPink
 		self._button1.Font = System.Drawing.Font("Times New Roman", 14.25, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._button1.ForeColor = System.Drawing.Color.Teal
-		self._button1.Location = System.Drawing.Point(12, 227)
+		self._button1.Location = System.Drawing.Point(12, 196)
 		self._button1.Name = "button1"
-		self._button1.Size = System.Drawing.Size(115, 60)
+		self._button1.Size = System.Drawing.Size(115, 91)
 		self._button1.TabIndex = 0
 		self._button1.Text = "Select Conference Options"
 		self._button1.UseVisualStyleBackColor = False

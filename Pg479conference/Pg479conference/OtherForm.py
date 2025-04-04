@@ -1,5 +1,4 @@
-﻿
-import System.Drawing
+﻿import System.Drawing
 import System.Windows.Forms
 
 from System.Drawing import *
@@ -8,6 +7,8 @@ from System.Windows.Forms import *
 class OtherForm(Form):
 	def __init__(self):
 		self.InitializeComponent()
+#		self.myparent = parent
+		"""parent - might help later"""
 	
 	def InitializeComponent(self):
 		self._button3 = System.Windows.Forms.Button()
@@ -70,10 +71,16 @@ class OtherForm(Form):
 		# comboBox1
 		# 
 		self._comboBox1.FormattingEnabled = True
-		self._comboBox1.Location = System.Drawing.Point(180, 50)
+		self._comboBox1.Items.AddRange(System.Array[System.Object](
+			["Introduction to E-commerce",
+			"The Future of the Web",
+			"Advanced Visual Basic",
+			"Network Security"]))
+		self._comboBox1.Location = System.Drawing.Point(170, 50)
 		self._comboBox1.Name = "comboBox1"
-		self._comboBox1.Size = System.Drawing.Size(121, 21)
+		self._comboBox1.Size = System.Drawing.Size(131, 21)
 		self._comboBox1.TabIndex = 11
+		self._comboBox1.Text = "Select One Option"
 		# 
 		# label2
 		# 
@@ -112,16 +119,22 @@ class OtherForm(Form):
 		self.Controls.Add(self._button2)
 		self.Name = "OtherForm"
 		self.Text = "OtherForm"
+		self.FormClosing += self.OtherFormFormClosing
 		self.ResumeLayout(False)
 
 
 
 	def Button2Click(self, sender, e):
-		pass
+		"""self._checkBox1.Checked = False()
+		self._checkBox1.Checked = False()
+		self._comboBox1.Text 	= "" !!"""
+	
 	def Button3Click(self, sender, e):
 		MainForm = MainForm()
 		MainForm.Show()
+#		self.myparent.Show()
 		self.Hide()
 	
-	def Form1FormClosing(self, sender, e):
-		self.myparent.Show()
+	def OtherFormFormClosing(self, sender, e):
+		MainForm = MainForm()
+		MainForm.Show()
