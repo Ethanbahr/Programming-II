@@ -10,7 +10,27 @@
       "ProjectGuid": "e18ff8cb-bebe-47b0-8d19-4fc80eb7ec1f",
       "DisplayName": "Hello_Name",
       "ColorIndex": 1
+    },
+    "f2fbdc80-0279-4ba3-839f-ab5cecfa102d": {
+      "ProjectGuid": "f2fbdc80-0279-4ba3-839f-ab5cecfa102d",
+      "DisplayName": "Prog52a",
+      "ColorIndex": 2
+    },
+    "c6161b7d-be43-463f-a281-b3fbf83320b9": {
+      "ProjectGuid": "c6161b7d-be43-463f-a281-b3fbf83320b9",
+      "DisplayName": "Prog54b",
+      "ColorIndex": 3
+    },
+    "ecdb4fbe-143a-4241-bbd3-a1b547f07bcc": {
+      "ProjectGuid": "ecdb4fbe-143a-4241-bbd3-a1b547f07bcc",
+      "DisplayName": "Prog54c",
+      "ColorIndex": 4
+    },
+    "e3bdd505-dee6-4530-b236-3c252474730e": {
+      "ProjectGuid": "e3bdd505-dee6-4530-b236-3c252474730e",
+      "DisplayName": "!!!! Important stuff to copy and paste  !!!!",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
