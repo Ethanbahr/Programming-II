@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "!!!! Important stuff to copy and paste  !!!!/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/!!!! Important stuff to copy and paste  !!!!.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/!!!! Important stuff to copy and paste  !!!!.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "!!!! Important stuff to copy and paste  !!!!/1.0.0": {
+      "type": "project",
+      "path": "../Important stuff to copy and paste/!!!! Important stuff to copy and paste  !!!!.csproj",
+      "msbuildProject": "../Important stuff to copy and paste/!!!! Important stuff to copy and paste  !!!!.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "!!!! Important stuff to copy and paste  !!!! >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\bahr.e\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\Important stuff to copy and paste\\!!!! Important stuff to copy and paste  !!!!.csproj": {
+              "projectPath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\Important stuff to copy and paste\\!!!! Important stuff to copy and paste  !!!!.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

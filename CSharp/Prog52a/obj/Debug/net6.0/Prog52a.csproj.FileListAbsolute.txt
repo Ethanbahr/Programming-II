@@ -1,0 +1,15 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\Prog52a.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\Prog52a.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\Prog52a.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\Prog52a.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\ref\Prog52a.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\bin\Debug\net6.0\Prog52a.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\ref\Prog52a.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog52a\obj\Debug\net6.0\Prog52a.genruntimeconfig.cache
