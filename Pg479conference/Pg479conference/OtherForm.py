@@ -125,9 +125,9 @@ class OtherForm(Form):
 
 
 	def Button2Click(self, sender, e):
-		"""self._checkBox1.Checked = False()
 		self._checkBox1.Checked = False()
-		self._comboBox1.Text 	= "" !!"""
+		self._checkBox1.Checked = False()
+		self._comboBox1.Text 	= ""
 	
 	def Button3Click(self, sender, e):
 		MainForm = MainForm()

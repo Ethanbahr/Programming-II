@@ -37,9 +37,9 @@ class MainForm(Form):
 		self._button1.BackColor = System.Drawing.Color.HotPink
 		self._button1.Font = System.Drawing.Font("Times New Roman", 14.25, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._button1.ForeColor = System.Drawing.Color.Teal
-		self._button1.Location = System.Drawing.Point(12, 196)
+		self._button1.Location = System.Drawing.Point(12, 227)
 		self._button1.Name = "button1"
-		self._button1.Size = System.Drawing.Size(115, 91)
+		self._button1.Size = System.Drawing.Size(115, 60)
 		self._button1.TabIndex = 0
 		self._button1.Text = "Select Conference Options"
 		self._button1.UseVisualStyleBackColor = False
@@ -89,9 +89,9 @@ class MainForm(Form):
 		self._label1.BackColor = System.Drawing.Color.Gold
 		self._label1.Font = System.Drawing.Font("Times New Roman", 14.25, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._label1.ForeColor = System.Drawing.Color.Blue
-		self._label1.Location = System.Drawing.Point(133, 196)
+		self._label1.Location = System.Drawing.Point(95, 196)
 		self._label1.Name = "label1"
-		self._label1.Size = System.Drawing.Size(115, 28)
+		self._label1.Size = System.Drawing.Size(153, 28)
 		self._label1.TabIndex = 4
 		# 
 		# groupBox1
@@ -283,11 +283,33 @@ class MainForm(Form):
 		self.Hide()
 
 	def Button2Click(self, sender, e):
-		pass
+		self._textBox1.Text = ""
+		self._textBox2.Text = ""
+		self._textBox3.Text = ""
+		self._textBox4.Text = ""
+		self._textBox5.Text = ""
+		self._textBox6.Text = ""
+		self._textBox7.Text = ""
+		self._label1.Text   = ""
 	
 	def Button4Click(self, sender, e):
+		"""Introduction to E-commerce
+		   The Future of the Web
+		   Advanced Visual Basic
+		   Network Security"""
 		from OtherForm import *
-		tot  = 0
+		tot  = 895
+		if self._comboBox1.Text = "Introduction to E-commerce":
+			tot += 295
+		if self._comboBox1.Text = "The Future of the Web":
+			tot += 295
+		if self._comboBox1.Text = "Advanced Visual Basic":
+			tot += 395
+		if self._comboBox1.Text = " Network Security":
+			tot += 395
+		if self._checkBox1.Checked == True():
+			tot += 
+		
 		
 		self._label1.Text = "Total: $" + str(tot)
 	
