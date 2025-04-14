@@ -30,7 +30,27 @@
       "ProjectGuid": "e3bdd505-dee6-4530-b236-3c252474730e",
       "DisplayName": "!!!! Important stuff to copy and paste  !!!!",
       "ColorIndex": 5
+    },
+    "734e3c10-5f30-4e13-93a8-cb46ef2d4ed6": {
+      "ProjectGuid": "734e3c10-5f30-4e13-93a8-cb46ef2d4ed6",
+      "DisplayName": "Prog54d",
+      "ColorIndex": 6
+    },
+    "b28fe4d1-34aa-4b91-be9f-2b841652ad2e": {
+      "ProjectGuid": "b28fe4d1-34aa-4b91-be9f-2b841652ad2e",
+      "DisplayName": "Prog54a",
+      "ColorIndex": 7
+    },
+    "733f7828-60b2-4659-bacc-5f4e6c6a96bc": {
+      "ProjectGuid": "733f7828-60b2-4659-bacc-5f4e6c6a96bc",
+      "DisplayName": "Prog54a(real)",
+      "ColorIndex": 8
+    },
+    "6a375256-59cd-4cf2-b7db-e6edc7ccec13": {
+      "ProjectGuid": "6a375256-59cd-4cf2-b7db-e6edc7ccec13",
+      "DisplayName": "Project54b",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }

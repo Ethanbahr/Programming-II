@@ -1,0 +1,17 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\Prog54a(real).exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\Prog54a(real).deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\Prog54a(real).runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\Prog54a(real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\ref\Prog54a(real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\bin\Debug\net6.0-windows\Prog54a(real).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a_real_.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\ref\Prog54a(real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog54a(real)\obj\Debug\net6.0-windows\Prog54a(real).genruntimeconfig.cache
