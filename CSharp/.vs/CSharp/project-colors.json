@@ -50,7 +50,17 @@
       "ProjectGuid": "6a375256-59cd-4cf2-b7db-e6edc7ccec13",
       "DisplayName": "Project54b",
       "ColorIndex": 9
+    },
+    "6ad8fe66-c8b3-4790-a247-af18817666a2": {
+      "ProjectGuid": "6ad8fe66-c8b3-4790-a247-af18817666a2",
+      "DisplayName": "Prog88a",
+      "ColorIndex": 10
+    },
+    "bf81b258-4dd9-4884-a011-ba8a1ab2d303": {
+      "ProjectGuid": "bf81b258-4dd9-4884-a011-ba8a1ab2d303",
+      "DisplayName": "AboutMeForm",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }
