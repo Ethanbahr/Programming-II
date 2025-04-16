@@ -60,7 +60,12 @@
       "ProjectGuid": "bf81b258-4dd9-4884-a011-ba8a1ab2d303",
       "DisplayName": "AboutMeForm",
       "ColorIndex": 11
+    },
+    "2da0f5f1-9f1d-462b-9784-8662e2a55d4f": {
+      "ProjectGuid": "2da0f5f1-9f1d-462b-9784-8662e2a55d4f",
+      "DisplayName": "Prog 85c",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

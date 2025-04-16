@@ -4,3 +4,14 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windo
 C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.AssemblyInfoInputs.cache
 C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.AssemblyInfo.cs
 C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\AboutMeForm.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\AboutMeForm.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\AboutMeForm.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\AboutMeForm.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\ref\AboutMeForm.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\bin\Debug\net6.0-windows\AboutMeForm.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\ref\AboutMeForm.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\AboutMeForm\obj\Debug\net6.0-windows\AboutMeForm.genruntimeconfig.cache

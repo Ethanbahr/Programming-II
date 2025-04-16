@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog54a(real)", "Prog54a(re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project54b", "Project54b\Project54b.csproj", "{6A375256-59CD-4CF2-B7DB-E6EDC7CCEC13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog88a", "Prog88a\Prog88a.csproj", "{6AD8FE66-C8B3-4790-A247-AF18817666A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog88a", "Prog88a\Prog88a.csproj", "{6AD8FE66-C8B3-4790-A247-AF18817666A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutMeForm", "AboutMeForm\AboutMeForm.csproj", "{BF81B258-4DD9-4884-A011-BA8A1AB2D303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AboutMeForm", "AboutMeForm\AboutMeForm.csproj", "{BF81B258-4DD9-4884-A011-BA8A1AB2D303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog 85c", "Prog 85c\Prog 85c.csproj", "{2DA0F5F1-9F1D-462B-9784-8662E2A55D4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{BF81B258-4DD9-4884-A011-BA8A1AB2D303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF81B258-4DD9-4884-A011-BA8A1AB2D303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF81B258-4DD9-4884-A011-BA8A1AB2D303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA0F5F1-9F1D-462B-9784-8662E2A55D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA0F5F1-9F1D-462B-9784-8662E2A55D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA0F5F1-9F1D-462B-9784-8662E2A55D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA0F5F1-9F1D-462B-9784-8662E2A55D4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
