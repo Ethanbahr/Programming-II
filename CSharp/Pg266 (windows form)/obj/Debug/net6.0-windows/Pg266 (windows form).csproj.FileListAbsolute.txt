@@ -1,0 +1,6 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266__windows_form_.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).csproj.CoreCompileInputs.cache

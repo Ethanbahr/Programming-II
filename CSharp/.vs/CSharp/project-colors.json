@@ -80,7 +80,17 @@
       "ProjectGuid": "c010d1da-a901-465e-b1bb-f347f936c47a",
       "DisplayName": "LP4-2",
       "ColorIndex": 15
+    },
+    "fbd1ec03-e908-4737-bf38-c48f257616dd": {
+      "ProjectGuid": "fbd1ec03-e908-4737-bf38-c48f257616dd",
+      "DisplayName": "Pg266",
+      "ColorIndex": 0
+    },
+    "9f1a94f1-a087-408f-beee-36dd923ff921": {
+      "ProjectGuid": "9f1a94f1-a087-408f-beee-36dd923ff921",
+      "DisplayName": "Pg266 (windows form)",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 2
 }

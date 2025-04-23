@@ -1,0 +1,14 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\Pg266.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\Pg266.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\Pg266.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\Pg266.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\ref\Pg266.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\bin\Debug\net6.0\Pg266.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\ref\Pg266.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266\obj\Debug\net6.0\Pg266.genruntimeconfig.cache

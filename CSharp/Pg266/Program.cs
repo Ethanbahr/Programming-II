@@ -1,0 +1,10 @@
+﻿using static System.Console;
+Write("Number A: ");
+int a = int.Parse(ReadLine());
+Write("Number B: ");
+int b = int.Parse(ReadLine());
+if (a > b) WriteLine("A is greater than B");
+else if (b > a) WriteLine("B is greater than A");
+else if (a == b) WriteLine("A is equal to B");
+else WriteLine("Error; invalid integer(s)");
+ReadKey();
