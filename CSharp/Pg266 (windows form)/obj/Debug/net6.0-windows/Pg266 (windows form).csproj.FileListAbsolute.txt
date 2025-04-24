@@ -4,3 +4,13 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).AssemblyInfoInputs.cache
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).AssemblyInfo.cs
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\Pg266 (windows form).exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\Pg266 (windows form).deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\Pg266 (windows form).runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\Pg266 (windows form).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\ref\Pg266 (windows form).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\bin\Debug\net6.0-windows\Pg266 (windows form).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\ref\Pg266 (windows form).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg266 (windows form)\obj\Debug\net6.0-windows\Pg266 (windows form).genruntimeconfig.cache

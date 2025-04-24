@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LP4-1", "LP4-1\LP4-1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LP4-2", "LP4-2\LP4-2.csproj", "{C010D1DA-A901-465E-B1BB-F347F936C47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg266", "Pg266\Pg266.csproj", "{FBD1EC03-E908-4737-BF38-C48F257616DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg266", "Pg266\Pg266.csproj", "{FBD1EC03-E908-4737-BF38-C48F257616DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg266 (windows form)", "Pg266 (windows form)\Pg266 (windows form).csproj", "{9F1A94F1-A087-408F-BEEE-36DD923FF921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg266 (windows form)", "Pg266 (windows form)\Pg266 (windows form).csproj", "{9F1A94F1-A087-408F-BEEE-36DD923FF921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg273", "pg273\pg273.csproj", "{A9BF5577-9AB7-4CA1-9403-2A5769801EDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{9F1A94F1-A087-408F-BEEE-36DD923FF921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F1A94F1-A087-408F-BEEE-36DD923FF921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F1A94F1-A087-408F-BEEE-36DD923FF921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BF5577-9AB7-4CA1-9403-2A5769801EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BF5577-9AB7-4CA1-9403-2A5769801EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BF5577-9AB7-4CA1-9403-2A5769801EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BF5577-9AB7-4CA1-9403-2A5769801EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

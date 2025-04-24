@@ -12,3 +12,4 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.dll
 C:\Users\bahr.e\Desktop\Programming II\CSharp\LP4-2\obj\Debug\net6.0\ref\LP4-2.dll
 C:\Users\bahr.e\Desktop\Programming II\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.pdb
 C:\Users\bahr.e\Desktop\Programming II\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.genruntimeconfig.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.csproj.AssemblyReference.cache

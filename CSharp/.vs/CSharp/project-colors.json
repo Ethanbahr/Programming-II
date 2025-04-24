@@ -90,7 +90,12 @@
       "ProjectGuid": "9f1a94f1-a087-408f-beee-36dd923ff921",
       "DisplayName": "Pg266 (windows form)",
       "ColorIndex": 1
+    },
+    "a9bf5577-9ab7-4ca1-9403-2a5769801edd": {
+      "ProjectGuid": "a9bf5577-9ab7-4ca1-9403-2a5769801edd",
+      "DisplayName": "pg273",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
