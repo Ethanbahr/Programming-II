@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273\\pg273.csproj",
-      "projectName": "pg273",
-      "projectPath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273\\pg273.csproj",
+      "projectUniqueName": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273\\pg273 Mass and Weight.csproj",
+      "projectName": "pg273 Mass and Weight",
+      "projectPath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273\\pg273 Mass and Weight.csproj",
       "packagesPath": "C:\\Users\\bahr.e\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,7 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273_Books__real_.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).csproj.CoreCompileInputs.cache

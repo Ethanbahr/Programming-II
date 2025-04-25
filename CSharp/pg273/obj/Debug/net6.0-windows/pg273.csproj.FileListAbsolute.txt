@@ -1,0 +1,17 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\pg273.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\pg273.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\pg273.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\pg273.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\ref\pg273.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\bin\Debug\net6.0-windows\pg273.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\ref\pg273.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273\obj\Debug\net6.0-windows\pg273.genruntimeconfig.cache

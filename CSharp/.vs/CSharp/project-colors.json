@@ -93,9 +93,19 @@
     },
     "a9bf5577-9ab7-4ca1-9403-2a5769801edd": {
       "ProjectGuid": "a9bf5577-9ab7-4ca1-9403-2a5769801edd",
-      "DisplayName": "pg273",
+      "DisplayName": "pg273 Mass and Weight",
       "ColorIndex": 2
+    },
+    "4e0c7316-90c8-4baa-9bdd-800d68a0ff98": {
+      "ProjectGuid": "4e0c7316-90c8-4baa-9bdd-800d68a0ff98",
+      "DisplayName": "pg273 books",
+      "ColorIndex": 3
+    },
+    "f6a1c562-cf22-4103-9f6e-4987469fbf27": {
+      "ProjectGuid": "f6a1c562-cf22-4103-9f6e-4987469fbf27",
+      "DisplayName": "pg273 Books (real)",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
