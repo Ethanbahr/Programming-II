@@ -1,0 +1,17 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\pg273 books.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\pg273 books.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\pg273 books.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\pg273 books.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\ref\pg273 books.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\bin\Debug\net6.0-windows\pg273 books.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273_books.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\ref\pg273 books.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 books\obj\Debug\net6.0-windows\pg273 books.genruntimeconfig.cache

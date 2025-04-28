@@ -39,7 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg266 (windows form)", "Pg2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg273 books", "pg273 books\pg273 books.csproj", "{4E0C7316-90C8-4BAA-9BDD-800D68A0FF98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg273 Books (real)", "pg273 Books (real)\pg273 Books (real).csproj", "{F6A1C562-CF22-4103-9F6E-4987469FBF27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg273 Books (real)", "pg273 Books (real)\pg273 Books (real).csproj", "{F6A1C562-CF22-4103-9F6E-4987469FBF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Sharp while loops thingy", "WinFormsApp1\C Sharp while loops thingy.csproj", "{9934F3A1-AC2E-4C80-B643-2F20BF52D4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog310a", "Prog327a\Prog310a.csproj", "{BA865B66-AEAD-47BA-859D-529F99FC1D9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{F6A1C562-CF22-4103-9F6E-4987469FBF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A1C562-CF22-4103-9F6E-4987469FBF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A1C562-CF22-4103-9F6E-4987469FBF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9934F3A1-AC2E-4C80-B643-2F20BF52D4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9934F3A1-AC2E-4C80-B643-2F20BF52D4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9934F3A1-AC2E-4C80-B643-2F20BF52D4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9934F3A1-AC2E-4C80-B643-2F20BF52D4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA865B66-AEAD-47BA-859D-529F99FC1D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA865B66-AEAD-47BA-859D-529F99FC1D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA865B66-AEAD-47BA-859D-529F99FC1D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA865B66-AEAD-47BA-859D-529F99FC1D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

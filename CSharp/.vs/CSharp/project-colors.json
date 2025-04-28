@@ -105,7 +105,17 @@
       "ProjectGuid": "f6a1c562-cf22-4103-9f6e-4987469fbf27",
       "DisplayName": "pg273 Books (real)",
       "ColorIndex": 4
+    },
+    "9934f3a1-ac2e-4c80-b643-2f20bf52d4a6": {
+      "ProjectGuid": "9934f3a1-ac2e-4c80-b643-2f20bf52d4a6",
+      "DisplayName": "C Sharp while loops thingy",
+      "ColorIndex": 5
+    },
+    "ba865b66-aead-47ba-859d-529f99fc1d9c": {
+      "ProjectGuid": "ba865b66-aead-47ba-859d-529f99fc1d9c",
+      "DisplayName": "Prog310a",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
