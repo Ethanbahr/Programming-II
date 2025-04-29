@@ -1,0 +1,16 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\Prog122b.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\Prog122b.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\Prog122b.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\Prog122b.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\ref\Prog122b.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\bin\Debug\net6.0-windows\Prog122b.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\ref\Prog122b.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.genruntimeconfig.cache

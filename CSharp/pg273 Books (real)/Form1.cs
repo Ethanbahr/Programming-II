@@ -11,24 +11,15 @@ namespace pg273_Books__real_
         {
             int Books = int.Parse(textBox1.Text);
             int Points = 0;
-            if (Books == 0); 
-            {
+            if (Books == 0) {
                 Points = 0;
-            }
-            if (Books = 1); 
-            {
+            } if (Books == 1) {
                 Points = 5;
-            }
-            if (Books = 2); 
-            {
+            } if (Books == 2) {
                 Points = 15;
-            }
-            if (Books = 3);
-            {
+            } if (Books == 3) {
                 Points = 30;
-            }
-            if (Books >= 4);
-            {
+            } if (Books >= 4) {
                 Points = 60;
             }
             label2.Text = ("You have ") + (Points) + (" points");

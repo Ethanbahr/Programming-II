@@ -1,4 +1,6 @@
-namespace WinFormsApp1
+using WinFormsApp1;
+
+namespace C_Sharp_while_loops_thingy
 {
     internal static class Program
     {

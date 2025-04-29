@@ -1,4 +1,6 @@
-namespace Prog327a
+using Prog327a;
+
+namespace Prog310a
 {
     internal static class Program
     {

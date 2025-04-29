@@ -5,3 +5,13 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.
 C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).AssemblyInfoInputs.cache
 C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).AssemblyInfo.cs
 C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\pg273 Books (real).exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\pg273 Books (real).deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\pg273 Books (real).runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\pg273 Books (real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\ref\pg273 Books (real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\bin\Debug\net6.0-windows\pg273 Books (real).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\ref\pg273 Books (real).dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg273 Books (real)\obj\Debug\net6.0-windows\pg273 Books (real).genruntimeconfig.cache

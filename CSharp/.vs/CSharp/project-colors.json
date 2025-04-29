@@ -115,7 +115,17 @@
       "ProjectGuid": "ba865b66-aead-47ba-859d-529f99fc1d9c",
       "DisplayName": "Prog310a",
       "ColorIndex": 6
+    },
+    "73ea5658-b13a-4744-b6c0-722ace20c8fa": {
+      "ProjectGuid": "73ea5658-b13a-4744-b6c0-722ace20c8fa",
+      "DisplayName": "Prog122b",
+      "ColorIndex": 7
+    },
+    "9fd280e3-6d92-4d34-bc76-61be64294978": {
+      "ProjectGuid": "9fd280e3-6d92-4d34-bc76-61be64294978",
+      "DisplayName": "pg347",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
