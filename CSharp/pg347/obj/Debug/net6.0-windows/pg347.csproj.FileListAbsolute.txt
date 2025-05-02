@@ -1,0 +1,7 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\pg347\obj\Debug\net6.0-windows\pg347.csproj.CoreCompileInputs.cache
