@@ -125,7 +125,17 @@
       "ProjectGuid": "9fd280e3-6d92-4d34-bc76-61be64294978",
       "DisplayName": "pg347",
       "ColorIndex": 8
+    },
+    "f9364ff4-e026-419d-ba3e-89e3e07324f2": {
+      "ProjectGuid": "f9364ff4-e026-419d-ba3e-89e3e07324f2",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 9
+    },
+    "088ab50d-8dbc-4cac-af08-77c3580e6861": {
+      "ProjectGuid": "088ab50d-8dbc-4cac-af08-77c3580e6861",
+      "DisplayName": "Pg435ticketsales",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 11
 }

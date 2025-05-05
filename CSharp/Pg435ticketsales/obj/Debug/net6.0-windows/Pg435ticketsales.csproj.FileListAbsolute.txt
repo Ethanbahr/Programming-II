@@ -1,0 +1,9 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.GeneralForm.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.StudentForm_pg435_.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg435ticketsales\obj\Debug\net6.0-windows\Pg435ticketsales.csproj.CoreCompileInputs.cache

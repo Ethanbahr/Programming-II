@@ -45,9 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Sharp while loops thingy"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog310a", "Prog327a\Prog310a.csproj", "{BA865B66-AEAD-47BA-859D-529F99FC1D9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122b", "Prog122b\Prog122b.csproj", "{73EA5658-B13A-4744-B6C0-722ACE20C8FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog122b", "Prog122b\Prog122b.csproj", "{73EA5658-B13A-4744-B6C0-722ACE20C8FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg347", "pg347\pg347.csproj", "{9FD280E3-6D92-4D34-BC76-61BE64294978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg347", "pg347\pg347.csproj", "{9FD280E3-6D92-4D34-BC76-61BE64294978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{F9364FF4-E026-419D-BA3E-89E3E07324F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435ticketsales", "Pg435ticketsales\Pg435ticketsales.csproj", "{088AB50D-8DBC-4CAC-AF08-77C3580E6861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{9FD280E3-6D92-4D34-BC76-61BE64294978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD280E3-6D92-4D34-BC76-61BE64294978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD280E3-6D92-4D34-BC76-61BE64294978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9364FF4-E026-419D-BA3E-89E3E07324F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9364FF4-E026-419D-BA3E-89E3E07324F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9364FF4-E026-419D-BA3E-89E3E07324F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9364FF4-E026-419D-BA3E-89E3E07324F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088AB50D-8DBC-4CAC-AF08-77C3580E6861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088AB50D-8DBC-4CAC-AF08-77C3580E6861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088AB50D-8DBC-4CAC-AF08-77C3580E6861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088AB50D-8DBC-4CAC-AF08-77C3580E6861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
