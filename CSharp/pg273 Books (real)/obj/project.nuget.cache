@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "87nm1ScMOybp0u97CMq0820yJSP1ny/UjbYyIrMnjwL69BeYm5IcmKougHVVFpJlJ68SZrA/Wrmu565x5Na7+w==",
+  "dgSpecHash": "NfbgU4yZN/EVBfStLYAuLHOkA+dzmcHcH5G6J8+UJXQEw1D6rlU0xMX+BT2VPJbvBeFxa/9yLhUuuTqwfryezg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\pg273 Books (real)\\pg273 Books (real).csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

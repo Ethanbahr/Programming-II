@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8zVSAARlySdbU5FKMghKjUefNOwh06FK0tYm00R44ZJp5jMkZ+7YP7yJ/UDIO3jJmZcsJCww8FJYfapg/PQ2qw==",
+  "dgSpecHash": "TNZDXcnn9O01YHDgHR2gZNpoF9ARarzeCReWDc+cU68FS29abFiIzYZnyJe6BEsNrgyCyOXszL4B+lmEIYXMaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

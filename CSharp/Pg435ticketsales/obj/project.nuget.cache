@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jxxKMPFVNL5+KL0UqedaJ/fH+IfPjKywXv7ME3yZzEvWlXrdNcUG7QP3ez/yUTQZmlcAWtnaZDCZzd3M0uppew==",
+  "dgSpecHash": "IL4/YSp3vo25cMW8w4kHll/RCWvDxeSPBWVbUmH2NOUeTC8A1MlCN+OqUhQnbIEnSgTNMlIL0tmqWSo0TscE+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\Pg435ticketsales\\Pg435ticketsales.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

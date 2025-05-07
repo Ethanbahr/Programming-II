@@ -9,9 +9,13 @@ namespace pg347
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num = int.Parse(textBox1.Text);
-            int sum = 0;
-            // [Insert fancy code thingy here]
+            import math
+            int num  = int.Parse(textBox1.Text);
+            long sum = 0;
+            // ---------- Factorial code (comment) ----------
+            // for (int i = 0; i < num; i++) {
+            //     sum *= i
+            // }
             label3.Text = sum;
         }
 

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2fzdks6eF+Z9ztO9DIPD8G4mzWNdsn0lAxy/BKgv7aIpCearuwhdQOk7Su14BaDJCyUcUxIuxCheWJIOrx3uUA==",
+  "dgSpecHash": "w85SB0cKo/HhrhzwpxJSahD/deGTG+f3hNl2y3dfssMoIIwPP0jgk5OnmGGNY2BiAOL2mvKuHCgMISCXg6QqYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\WinFormsApp1\\C Sharp while loops thingy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

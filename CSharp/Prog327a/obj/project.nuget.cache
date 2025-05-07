@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bsXL92wPlTcas7imqDCm4De/BOXnsdSbS5z9v40Srfy2cBcMcD3zXVTHw8K3J+JKAo+Re70Uj7tdYyPIkVQWdQ==",
+  "dgSpecHash": "nzHfC7dHq2SWTtG40jJb1h4UniQRQKxztzIVShEFUhf7IBWPGHI6EO/h2IVzk13YkfqaGvmFiSp2Gr2VlaYikQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\Prog327a\\Prog310a.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

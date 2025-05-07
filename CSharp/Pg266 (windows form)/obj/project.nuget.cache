@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IHYxWXi8tCjYmcoOFLdSINMuzuA74276nnB9aaT8c3fHRESzt8k6sb1s1wHb86Wzep5cFcDGR3/Ka4DnXeoNFA==",
+  "dgSpecHash": "up4AITMGTOmBHc4WnKerT+pLkJM6gvB6u5qWsXMhyGn/vfatIU5ALWuyFUwXz2cujCgWqaCNQmgbjsK4NVvi6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\bahr.e\\Desktop\\Programming II\\CSharp\\Pg266 (windows form)\\Pg266 (windows form).csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bahr.e\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
