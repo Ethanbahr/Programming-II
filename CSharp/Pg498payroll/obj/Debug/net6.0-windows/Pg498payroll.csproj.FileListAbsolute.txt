@@ -1,0 +1,7 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Pg498payroll\obj\Debug\net6.0-windows\Pg498payroll.csproj.CoreCompileInputs.cache

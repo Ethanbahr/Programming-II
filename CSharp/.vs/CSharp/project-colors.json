@@ -140,7 +140,12 @@
       "ProjectGuid": "0ce4072d-582b-4574-ae45-4e689891721c",
       "DisplayName": "Prog366b",
       "ColorIndex": 11
+    },
+    "d7e66feb-d29f-478d-b456-596974d17730": {
+      "ProjectGuid": "d7e66feb-d29f-478d-b456-596974d17730",
+      "DisplayName": "Pg498payroll",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
