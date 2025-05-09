@@ -6,5 +6,22 @@ namespace Prog122d
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            int num = int.Parse(listBox1.Text);
+            for (int i = 0; i < num; i++)
+            {
+                ans = ((num * *6) + (num * *5 * (0 - 3)) + (num * *4 * (0 - 93)) + (num * *3 * 87) + (num * *2 * 1596) - (num * (0 - 1380)) - 2800)
+
+            }
+            ans = ((num**6) + (num **5 * (0-3)) + (num **4 *(0 - 93)) + (num **3 * 87) + (num **2 * 1596) - (num * (0 - 1380)) - 2800)
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
