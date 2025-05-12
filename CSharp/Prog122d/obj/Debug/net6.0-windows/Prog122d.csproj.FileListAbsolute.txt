@@ -1,0 +1,6 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.Form1.resources
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.csproj.GenerateResource.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.csproj.CoreCompileInputs.cache

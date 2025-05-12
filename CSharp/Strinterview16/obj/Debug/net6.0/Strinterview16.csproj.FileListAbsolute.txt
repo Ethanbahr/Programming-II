@@ -1,0 +1,14 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\Strinterview16.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\Strinterview16.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\Strinterview16.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\Strinterview16.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\ref\Strinterview16.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\bin\Debug\net6.0\Strinterview16.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\ref\Strinterview16.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview16\obj\Debug\net6.0\Strinterview16.genruntimeconfig.cache

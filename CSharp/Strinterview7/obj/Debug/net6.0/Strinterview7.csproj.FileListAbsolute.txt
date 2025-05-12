@@ -1,0 +1,14 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\Strinterview7.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\Strinterview7.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\Strinterview7.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\Strinterview7.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\ref\Strinterview7.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\bin\Debug\net6.0\Strinterview7.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\ref\Strinterview7.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Strinterview7\obj\Debug\net6.0\Strinterview7.genruntimeconfig.cache
