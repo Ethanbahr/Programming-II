@@ -10,14 +10,12 @@ namespace Prog122d
         private void button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
-            int num = int.Parse(listBox1.Text);
-            for (int i = 0; i < num; i++)
+            foreach (int num in Range(-12, 17)) 
             {
-               int ans = ((num * *6) + (num * *5 * (0 - 3)) + (num * *4 * (0 - 93)) + (num * *3 * 87) + (num * *2 * 1596) - (num * (0 - 1380)) - 2800)
-
+            int ans = ((num**6) + (num**5 * (0 - 3)) + (num**4 * (0 - 93)) + (num**3 * 87) + (num**2 * 1596) - (num * (0 - 1380)) - 2800);
+            listBox1.Items.Add(ans);
             }
             // ans = ((num**6) + (num **5 * (0-3)) + (num **4 *(0 - 93)) + (num **3 * 87) + (num **2 * 1596) - (num * (0 - 1380)) - 2800)
-            listBox1.Items.Add(ans);
         }
 
         private void button2_Click(object sender, EventArgs e)

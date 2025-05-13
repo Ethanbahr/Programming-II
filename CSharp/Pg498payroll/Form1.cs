@@ -30,7 +30,6 @@ namespace Pg498payroll;
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+        Application.Exit();
         }
-    }
 }

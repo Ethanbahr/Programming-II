@@ -1,0 +1,4 @@
+C:\Users\bahr.e\Desktop\Programming II\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahr.e\Desktop\Programming II\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfo.cs
+C:\Users\bahr.e\Desktop\Programming II\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.csproj.CoreCompileInputs.cache

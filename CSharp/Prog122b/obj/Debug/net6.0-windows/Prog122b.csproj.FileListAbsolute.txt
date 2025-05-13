@@ -14,3 +14,4 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\ref\Prog122b.dll
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.pdb
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.genruntimeconfig.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122b\obj\Debug\net6.0-windows\Prog122b.csproj.AssemblyReference.cache
