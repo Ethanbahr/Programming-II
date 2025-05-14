@@ -4,3 +4,14 @@ C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.AssemblyInfoInputs.cache
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.AssemblyInfo.cs
 C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.csproj.CoreCompileInputs.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.csproj.AssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\Prog122d.exe
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\Prog122d.deps.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\Prog122d.runtimeconfig.json
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\Prog122d.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\ref\Prog122d.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\bin\Debug\net6.0-windows\Prog122d.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\ref\Prog122d.dll
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.pdb
+C:\Users\bahr.e\Desktop\Programming II\CSharp\Prog122d\obj\Debug\net6.0-windows\Prog122d.genruntimeconfig.cache
