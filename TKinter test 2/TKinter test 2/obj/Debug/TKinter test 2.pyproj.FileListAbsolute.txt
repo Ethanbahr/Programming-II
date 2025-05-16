@@ -1,0 +1,10 @@
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\TKinter test 2.exe.config
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\TKinter test 2.exe
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\TKinter test 2.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\IronPython.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\IronPython.Modules.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\obj\Debug\TKinter test 2.pyprojResolveAssemblyReference.cache
+C:\Users\bahr.e\Desktop\Programming II\TKinter test 2\TKinter test 2\obj\Debug\TKinter test 2.exe
